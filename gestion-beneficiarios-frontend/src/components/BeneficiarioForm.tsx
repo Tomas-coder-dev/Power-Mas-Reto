@@ -31,7 +31,6 @@ const BeneficiarioForm: React.FC<Props> = ({
 
   const selectedDocumento = documentos.find((d) => d.id === Number(documentoId));
 
-  // feedback calculado
   const feedbackFormato =
     selectedDocumento != null
       ? `Debe tener exactamente ${selectedDocumento.longitud} caracteres${
@@ -41,7 +40,6 @@ const BeneficiarioForm: React.FC<Props> = ({
         }`
       : "";
 
-  // Cargar datos cuando entra en modo edición
   useEffect(() => {
     if (beneficiarioEdit) {
       setNombres(beneficiarioEdit.nombres);
@@ -54,7 +52,6 @@ const BeneficiarioForm: React.FC<Props> = ({
     } else {
       limpiarFormulario();
     }
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [beneficiarioEdit]);
 
   const limpiarFormulario = () => {
@@ -124,7 +121,10 @@ const BeneficiarioForm: React.FC<Props> = ({
 
     try {
       if (beneficiarioEdit) {
-        await updateBeneficiario(beneficiarioEdit.id, payload);
+        await updateBeneficiario(beneficiarioEdit.id, {
+          ...payload,
+          id: beneficiarioEdit.id,
+        });
       } else {
         await createBeneficiario(payload);
       }
