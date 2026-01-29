@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aylas\\Desktop\\Prueba PowerMass\\GestionBeneficiarios.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78629ED6-0762-49D7-AD33-D3C6FDE175EB}|..\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api..csproj|c:\\users\\aylas\\desktop\\prueba powermass\\gestionbeneficiarios.api\\gestionbeneficiarios.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78629ED6-0762-49D7-AD33-D3C6FDE175EB}|..\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api..csproj|solutionrelative:gestionbeneficiarios.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78629ED6-0762-49D7-AD33-D3C6FDE175EB}|..\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api..csproj|c:\\users\\aylas\\desktop\\prueba powermass\\gestionbeneficiarios.api\\gestionbeneficiarios.api\\controllers\\beneficiarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78629ED6-0762-49D7-AD33-D3C6FDE175EB}|..\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api..csproj|solutionrelative:gestionbeneficiarios.api\\controllers\\beneficiarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78629ED6-0762-49D7-AD33-D3C6FDE175EB}|..\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api..csproj|c:\\users\\aylas\\desktop\\prueba powermass\\gestionbeneficiarios.api\\gestionbeneficiarios.api\\controllers\\documentosidentidadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78629ED6-0762-49D7-AD33-D3C6FDE175EB}|..\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api..csproj|solutionrelative:gestionbeneficiarios.api\\controllers\\documentosidentidadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78629ED6-0762-49D7-AD33-D3C6FDE175EB}|..\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api..csproj|c:\\users\\aylas\\desktop\\prueba powermass\\gestionbeneficiarios.api\\gestionbeneficiarios.api\\models\\beneficiariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78629ED6-0762-49D7-AD33-D3C6FDE175EB}|..\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api..csproj|solutionrelative:gestionbeneficiarios.api\\models\\beneficiariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78629ED6-0762-49D7-AD33-D3C6FDE175EB}|..\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api..csproj|c:\\users\\aylas\\desktop\\prueba powermass\\gestionbeneficiarios.api\\gestionbeneficiarios.api\\models\\documentoidentidaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78629ED6-0762-49D7-AD33-D3C6FDE175EB}|..\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api..csproj|solutionrelative:gestionbeneficiarios.api\\models\\documentoidentidaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78629ED6-0762-49D7-AD33-D3C6FDE175EB}|..\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api..csproj|c:\\users\\aylas\\desktop\\prueba powermass\\gestionbeneficiarios.api\\gestionbeneficiarios.api\\gestionbeneficiarios.api..csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78629ED6-0762-49D7-AD33-D3C6FDE175EB}|..\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api..csproj|solutionrelative:gestionbeneficiarios.api\\gestionbeneficiarios.api..csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78629ED6-0762-49D7-AD33-D3C6FDE175EB}|..\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api..csproj|c:\\users\\aylas\\desktop\\prueba powermass\\gestionbeneficiarios.api\\gestionbeneficiarios.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78629ED6-0762-49D7-AD33-D3C6FDE175EB}|..\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api..csproj|solutionrelative:gestionbeneficiarios.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78629ED6-0762-49D7-AD33-D3C6FDE175EB}|..\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api..csproj|c:\\users\\aylas\\desktop\\prueba powermass\\gestionbeneficiarios.api\\gestionbeneficiarios.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78629ED6-0762-49D7-AD33-D3C6FDE175EB}|..\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api..csproj|solutionrelative:gestionbeneficiarios.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BeneficiariosController.cs",
+              "DocumentMoniker": "C:\\Users\\aylas\\Desktop\\Prueba PowerMass\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\Controllers\\BeneficiariosController.cs",
+              "RelativeDocumentMoniker": "GestionBeneficiarios.Api\\Controllers\\BeneficiariosController.cs",
+              "ToolTip": "C:\\Users\\aylas\\Desktop\\Prueba PowerMass\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\Controllers\\BeneficiariosController.cs",
+              "RelativeToolTip": "GestionBeneficiarios.Api\\Controllers\\BeneficiariosController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowNIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T03:49:52.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DocumentosIdentidadController.cs",
+              "DocumentMoniker": "C:\\Users\\aylas\\Desktop\\Prueba PowerMass\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\Controllers\\DocumentosIdentidadController.cs",
+              "RelativeDocumentMoniker": "GestionBeneficiarios.Api\\Controllers\\DocumentosIdentidadController.cs",
+              "ToolTip": "C:\\Users\\aylas\\Desktop\\Prueba PowerMass\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\Controllers\\DocumentosIdentidadController.cs",
+              "RelativeToolTip": "GestionBeneficiarios.Api\\Controllers\\DocumentosIdentidadController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T03:49:10.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BeneficiarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\aylas\\Desktop\\Prueba PowerMass\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\Models\\BeneficiarioDto.cs",
+              "RelativeDocumentMoniker": "GestionBeneficiarios.Api\\Models\\BeneficiarioDto.cs",
+              "ToolTip": "C:\\Users\\aylas\\Desktop\\Prueba PowerMass\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\Models\\BeneficiarioDto.cs",
+              "RelativeToolTip": "GestionBeneficiarios.Api\\Models\\BeneficiarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T03:48:49.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocumentoIdentidadDto.cs",
+              "DocumentMoniker": "C:\\Users\\aylas\\Desktop\\Prueba PowerMass\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\Models\\DocumentoIdentidadDto.cs",
+              "RelativeDocumentMoniker": "GestionBeneficiarios.Api\\Models\\DocumentoIdentidadDto.cs",
+              "ToolTip": "C:\\Users\\aylas\\Desktop\\Prueba PowerMass\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\Models\\DocumentoIdentidadDto.cs",
+              "RelativeToolTip": "GestionBeneficiarios.Api\\Models\\DocumentoIdentidadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T03:43:06.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GestionBeneficiarios.Api.",
+              "DocumentMoniker": "C:\\Users\\aylas\\Desktop\\Prueba PowerMass\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api..csproj",
+              "RelativeDocumentMoniker": "GestionBeneficiarios.Api\\GestionBeneficiarios.Api..csproj",
+              "ToolTip": "C:\\Users\\aylas\\Desktop\\Prueba PowerMass\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api..csproj",
+              "RelativeToolTip": "GestionBeneficiarios.Api\\GestionBeneficiarios.Api..csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-29T03:42:18.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aylas\\Desktop\\Prueba PowerMass\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "GestionBeneficiarios.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\aylas\\Desktop\\Prueba PowerMass\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\appsettings.json",
+              "RelativeToolTip": "GestionBeneficiarios.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-29T03:29:37.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aylas\\Desktop\\Prueba PowerMass\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\Program.cs",
+              "RelativeDocumentMoniker": "GestionBeneficiarios.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\aylas\\Desktop\\Prueba PowerMass\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\Program.cs",
+              "RelativeToolTip": "GestionBeneficiarios.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T03:29:34.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\aylas\\Desktop\\Prueba PowerMass\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GestionBeneficiarios.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\aylas\\Desktop\\Prueba PowerMass\\GestionBeneficiarios.Api\\GestionBeneficiarios.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GestionBeneficiarios.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-29T03:28:06.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
