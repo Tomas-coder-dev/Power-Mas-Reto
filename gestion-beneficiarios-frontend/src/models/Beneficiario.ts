@@ -6,6 +6,6 @@ export interface Beneficiario {
   nombreDocumento?: string;
   abreviatura?: string;
   numeroDocumento: string;
-  fechaNacimiento: string; // ISO ej. "1990-01-01"
+  fechaNacimiento: string; 
   sexo: "M" | "F";
 }
